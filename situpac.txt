@@ -1,0 +1,6 @@
+123|12345|El paciente presenta sintomaspaciente presenta sintomaspaciente presenta sintomas.
+234|12345|qweqwe
+234|34567|qweqwe
+123|12345|qweqw
+qweqweee
+ABC123|13455|Test

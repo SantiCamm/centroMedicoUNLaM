@@ -1,0 +1,7 @@
+123|Paciente1
+234|Pepe
+23|asdasd
+asdasd|2323
+asdas|21323
+ABC123|Pepe Martinez
+ADS433|Pepe Juan
